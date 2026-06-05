@@ -1,1 +1,3 @@
 media pipe 0.10.14 and python 3.11.9
+
+install ultralytics

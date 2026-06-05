@@ -1,0 +1,14 @@
+path: ./BottleDetection/dataset
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 1
+names: ['bottle']
+
+roboflow:
+  workspace: fionas-workspace-cfffm
+  project: bottledetection-cy5uv
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/fionas-workspace-cfffm/bottledetection-cy5uv/dataset/1
